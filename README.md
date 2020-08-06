@@ -82,3 +82,4 @@ https://www.kaggle.com/sonujha090/xyzcorp-lendingdata
 Label encoding.
 
 ### FOR COMPLETE DATA ANALYSIS PLEASE REFER MY .ipynb FILE.
+![](Loan_defaulters_final.ipynb)
